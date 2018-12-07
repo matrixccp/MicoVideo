@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">趣视</string>
+
+    <string name="video_offline">缓存</string>
+    <string name="video_attention">+ 关注</string>
+    <string name="video_end">- The End-</string>
+
+    <string name="category_title">全部分类</string>
+    <string name="hot_title">人气榜</string>
+    <string name="about">关于</string>
+
+    <string name="search_transition_name">transition_reveal</string>
+    <string name="search_hint_text">帮你找到感兴趣的视频</string>
+    <string name="search_title_tip">输入标题或描述中的关键词找到更多视频</string>
+    <string name="search_hot_keywords_tip">- 热门搜索词 -</string>
+    <string name="search_result_count">-「%1$s」搜索结果共%2$d个-</string>
+
+
+    <string name="cancel">取消</string>
+
+    <string name="collection">收藏</string>
+    <string name="comment">评论</string>
+    <string name="mine_message">我的消息</string>
+    <string name="mine_attention">我的关注</string>
+    <string name="mine_cache">我的缓存</string>
+    <string name="view_history">观看记录</string>
+    <string name="feedback">意见反馈</string>
+
+
+    <string name="loading_text">加载中&#8230;</string>
+    <string name="no_network">请检查网络后点击重新加载</string>
+    <string name="data_error">数据获取失败(ㄒoㄒ)~~</string>
+    <string name="empty_view_hint">暂时木有内容呀~~</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+</resources>
